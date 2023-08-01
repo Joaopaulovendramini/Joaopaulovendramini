@@ -1,16 +1,16 @@
 
+
+
+
+
+
 <h1>Bem-vindo ao meu perfil! 🌟😄</h1>
 <h2 align="center"></h2>
 <h2 align="center"></h2>
 
-###
-
-<img align="right" height="200" src="https://gifdb.com/images/high/good-morning-anime-boy-drink-coffee-c3wb4skfgxk1ubbj.gif"  />
-
-###
-
 
 <div align="center">
+  <img align="right" height="200" src="https://gifdb.com/images/high/good-morning-anime-boy-drink-coffee-c3wb4skfgxk1ubbj.gif"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
@@ -50,6 +50,3 @@
 <p align="center">🌟 Ainda estou no início da minha jornada no mundo da programação, mas estou extremamente empenhado em aprender e crescer nesta área!<br><br>🚀 Adoro desafios e estou sempre buscando me superar, aprendendo e desenvolvendo projetos criativos e inovadores.<br><br>📚 Além da programação, tenho um grande interesse em estudar literatura, filosofia e matemática. Essas áreas me ajudam a expandir minha visão e a pensar de forma mais abrangente.<br><br>😄 Sou uma pessoa divertida e espontânea, adoro conhecer novas pessoas, compartilhar conhecimentos e experiências.<br><br>🌈 Tenho uma mente curiosa e estou sempre explorando novas possibilidades e aprendendo coisas novas.</p>
 
 ###
-
-  ![Snake animation](https://github.com/Joaopaulovendramini/Joaopaulovendramini/blob/output/github-contribution-grid-snake.svg)
-  
