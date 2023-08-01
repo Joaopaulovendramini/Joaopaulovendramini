@@ -51,3 +51,12 @@
 <p align="center">🌟 Ainda estou no início da minha jornada no mundo da programação, mas estou extremamente empenhado em aprender e crescer nesta área!<br><br>🚀 Adoro desafios e estou sempre buscando me superar, aprendendo e desenvolvendo projetos criativos e inovadores.<br><br>📚 Além da programação, tenho um grande interesse em estudar literatura, filosofia e matemática. Essas áreas me ajudam a expandir minha visão e a pensar de forma mais abrangente.<br><br>😄 Sou uma pessoa divertida e espontânea, adoro conhecer novas pessoas, compartilhar conhecimentos e experiências.<br><br>🌈 Tenho uma mente curiosa e estou sempre explorando novas possibilidades e aprendendo coisas novas.</p>
 
 ###
+
+<br clear="both">
+<h6 align="center" style="font-size: 12px;">
+  Contatos:<br>
+  📧 E-mail: joaopaulovendraminiof@gmail.com<br>
+  📱 Telefone: +55 46 99920-0181<br><br>
+  Estou sempre em busca de novos projetos e desafios, então sinta-se à vontade para entrar em contato comigo para discutirmos ideias, oportunidades e quem sabe desenvolvermos algo incrível juntos! 😉
+</h6>
+
