@@ -60,5 +60,5 @@
   Estou sempre em busca de novos projetos e desafios, então sinta-se à vontade para entrar em contato comigo para discutirmos ideias, oportunidades e quem sabe desenvolvermos algo incrível juntos! 😉
 </h6>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Joaopaulovendramini/Joaopaulovendramini/blob/output/github-contribution-grid-snake.svg)
 
