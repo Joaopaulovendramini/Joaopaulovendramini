@@ -11,18 +11,13 @@
 
 <div align="center">
   <img align="right" height="200" src="https://gifdb.com/images/high/good-morning-anime-boy-drink-coffee-c3wb4skfgxk1ubbj.gif"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="Ts logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Nodejs logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="15" />
+
   </div>
 
  <div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="Ts logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
   <img width="15" />
@@ -30,11 +25,21 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="15" />
+  
 </div>
 
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" />
+  <img width="15" />
+  
+ 
+          
 </div>
 
 
@@ -61,7 +66,7 @@
 <h2 align="center"></h2>
 <h2 align="center"></h2>
 <h2 align="center">About me💫</h2>
-<p align="center">🌟 Ainda estou no início da minha jornada no mundo da programação, mas estou extremamente empenhado em aprender e crescer nesta área!<br><br>🚀 Adoro desafios e estou sempre buscando me superar, aprendendo e desenvolvendo projetos criativos e inovadores.<br><br>📚 Além da programação, tenho um grande interesse em estudar literatura, filosofia e matemática. Essas áreas me ajudam a expandir minha visão e a pensar de forma mais abrangente.<br><br>😄 Sou uma pessoa divertida e espontânea, adoro conhecer novas pessoas, compartilhar conhecimentos e experiências.<br><br>🌈 Tenho uma mente curiosa e estou sempre explorando novas possibilidades e aprendendo coisas novas.</p>
+<p align="center">🌟 Ainda estou no início da minha jornada no mundo da programação sonho em me tornar desenvolvedor back-end, mas estou extremamente empenhado em aprender e crescer nesta área!<br><br>🚀 Adoro desafios e estou sempre buscando me superar, aprendendo e desenvolvendo projetos criativos e inovadores.<br><br>📚 Além da programação, tenho um grande interesse em estudar literatura, filosofia e matemática. Essas áreas me ajudam a expandir minha visão e a pensar de forma mais abrangente.<br><br>😄 Sou uma pessoa divertida e espontânea, adoro conhecer novas pessoas, compartilhar conhecimentos e experiências.<br><br>🌈 Tenho uma mente curiosa e estou sempre explorando novas possibilidades e aprendendo coisas novas.</p>
 
 ###
 
