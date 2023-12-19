@@ -58,7 +58,7 @@
 <h2 align="center"></h2>
 <h2 align="center"></h2>
 <h2 align="center">About me💫</h2>
-<p align="center">🌟 Ainda estou no início da minha jornada no mundo da programação sonho em me tornar desenvolvedor back-end, mas estou extremamente empenhado em aprender e crescer nesta área!<br><br>🚀 Adoro desafios e estou sempre buscando me superar, aprendendo e desenvolvendo projetos criativos e inovadores.<br><br>📚 Além da programação, tenho um grande interesse em estudar literatura, filosofia e matemática. Essas áreas me ajudam a expandir minha visão e a pensar de forma mais abrangente.<br><br>😄 Sou uma pessoa divertida e espontânea, adoro conhecer novas pessoas, compartilhar conhecimentos e experiências.<br><br>🌈 Tenho uma mente curiosa e estou sempre explorando novas possibilidades e aprendendo coisas novas.</p>
+<p align="center">Sonho em me tornar desenvolvedor back-end, mas estou extremamente empenhado em aprender e crescer nesta área!<br><br>🚀 Adoro desafios e estou sempre buscando me superar, aprendendo e desenvolvendo projetos criativos e inovadores.<br><br>📚 Além da programação, tenho um grande interesse em estudar literatura, filosofia e matemática. Essas áreas me ajudam a expandir minha visão e a pensar de forma mais abrangente.<br><br>😄 Sou uma pessoa divertida e espontânea, adoro conhecer novas pessoas, compartilhar conhecimentos e experiências.<br><br>🌟 Tenho uma mente curiosa e estou sempre explorando novas possibilidades e aprendendo coisas novas.</p>
 
 ###
 
