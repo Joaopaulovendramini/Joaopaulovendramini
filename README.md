@@ -11,10 +11,13 @@
 
 <div align="center">
   <img align="right" height="200" src="https://gifdb.com/images/high/good-morning-anime-boy-drink-coffee-c3wb4skfgxk1ubbj.gif"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="55" />
+          
   <img width="15" />
 
   </div>
+            
+          
 
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="Ts logo"  />
